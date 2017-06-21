@@ -6,4 +6,6 @@
  * Time: 14:33
  */
 
+define('ADMIN_EMAIL', 'admin@example.com');
+
 echo 'Welcome!';
