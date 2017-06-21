@@ -7,6 +7,5 @@
  */
 
 define('ADMIN_EMAIL', 'admin@example.com');
-define('KEY', 1523654);
 
 echo 'Welcome!';
